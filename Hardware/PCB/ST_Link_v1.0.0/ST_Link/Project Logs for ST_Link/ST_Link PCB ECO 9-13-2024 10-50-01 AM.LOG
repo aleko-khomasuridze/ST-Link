@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=+5v Pin=C5-2
+Removed Pin From Net: NetName=GND Pin=C6-1
+Removed Pin From Net: NetName=+5v Pin=C6-2
+Removed Pin From Net: NetName=3.3v Pin=C7-2
+Removed Pin From Net: NetName=+5v Pin=REG1-1
+Removed Pin From Net: NetName=GND Pin=REG1-2
+Removed Pin From Net: NetName=3.3v Pin=REG1-3
+Removed Pin From Net: NetName=3.3v Pin=REG1-3
+Removed Pin From Net: NetName=+5v Pin=U1-5
+Removed Member From Class: ClassName=ST_Link Member=REG1
+Change Component Footprint: Designator=C6 Old Footprint=TANTAL_CAP New Footprint=2.2uF TAN CAP
+Change Component Footprint: Designator=C7 Old Footprint=TANTAL_CAP New Footprint=0603 CAP
+Change Component Comment : Designator=C6 Old Comment=tan_cap New Comment=2.2uF TAN CAP
+Change Component Comment : Designator=C7 Old Comment=tan_cap New Comment=0603 CAP
+Added Component: Designator=1(3.3v reg)
+Added Pin To Net: NetName=GND Pin=1-2
+Added Pin To Net: NetName=3.3v Pin=1-5
+Added Pin To Net: NetName=3.3v Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C6-2
+Change Net Name : Old Net Name=+5v New Net Name=NetFL1_2
+Added Pin To Net: NetName=+5v Pin=1-1
+Added Pin To Net: NetName=+5v Pin=1-3
+Added Pin To Net: NetName=+5v Pin=C5-2
+Added Pin To Net: NetName=+5v Pin=U1-5
+Added Net: Name=+5v
+Added Pin To Net: NetName=Net1_4 Pin=1-4
+Added Pin To Net: NetName=Net1_4 Pin=C7-2
+Added Net: Name=Net1_4
+Added Member To Class: ClassName=ST_Link Member=Component * PAD
+Added Member To Class: ClassName=ST_Link Member=Component 1 3.3v reg
