@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=* NewDesignator=SCLK
+Change Component Designator: OldDesignator=* NewDesignator=SDIO
+Added Component: Designator=GND(PAD)
+Added Pin To Net: NetName=GND Pin=GND-1
+Added Member To Class: ClassName=ST_Link Member=Component GND PAD
+Added Member To Class: ClassName=ST_Link Member=Component SCLK PAD

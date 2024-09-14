@@ -1,0 +1,33 @@
+Change Component Comment : Designator=R8 Old Comment=0603 RES New Comment=100R
+Added Component: Designator=F1(FUSC1608X60N)
+Add component (AddParameter): Name = "Availability"; Value = "Warning"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Bel Fuse"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "0686F1500-01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603 Bel Fuse Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/0686F1500-01/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/0686F1500-01/Bel%20Fuse/view-part/4616395/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R10(0603 RES)
+Added Component: Designator=R11(0603 RES)
+Added Component: Designator=R12(0603 RES)
+Added Component: Designator=R13(0603 RES)
+Added Pin To Net: NetName=NetFL1_2 Pin=F1-1
+Added Pin To Net: NetName=+5v Pin=F1-2
+Added Pin To Net: NetName=3.3v Pin=R10-2
+Added Pin To Net: NetName=RENUM Pin=R11-1
+Added Pin To Net: NetName=GND Pin=R12-1
+Added Pin To Net: NetName=DP Pin=R13-1
+Change Net Name : Old Net Name=NetFL1_2 New Net Name=NetF1_1
+Added Pin To Net: NetName=NetQ1_1 Pin=R10-1
+Added Pin To Net: NetName=NetQ1_1 Pin=R11-2
+Added Pin To Net: NetName=NetQ1_1 Pin=R12-2
+Added Net: Name=NetQ1_1
+Added Pin To Net: NetName=NetQ1_2 Pin=R13-2
+Added Net: Name=NetQ1_2
+Added Member To Class: ClassName=ST_Link Member=Component F1 0686F1500-01
+Added Member To Class: ClassName=ST_Link Member=Component R10 10k
+Added Member To Class: ClassName=ST_Link Member=Component R11 100R
+Added Member To Class: ClassName=ST_Link Member=Component R12 36k
+Added Member To Class: ClassName=ST_Link Member=Component R13 1k5
+Added Member To Class: ClassName=ST_Link Member=Component SDIO PAD

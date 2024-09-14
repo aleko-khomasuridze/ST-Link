@@ -1,0 +1,59 @@
+Removed Pin From Net: NetName=3.3v Pin=U2-47
+Removed Pin From Net: NetName=GND Pin=U2-48
+Added Component: Designator=H1(2x10 MALE HEADER - duplicate)
+Added Component: Designator=Q1(PCBComponent_1)
+Added Component: Designator=R14(0603 RES)
+Added Component: Designator=R15(0603 RES)
+Added Component: Designator=R16(0603 RES)
+Added Component: Designator=R17(0603 RES)
+Added Component: Designator=R18(0603 RES)
+Added Component: Designator=R19(0603 RES)
+Added Pin To Net: NetName=3.3v Pin=H1-1
+Added Pin To Net: NetName=NRST Pin=H1-8
+Added Pin To Net: NetName=GND Pin=H1-11
+Added Pin To Net: NetName=GND Pin=H1-12
+Added Pin To Net: NetName=GND Pin=H1-13
+Added Pin To Net: NetName=GND Pin=H1-14
+Added Pin To Net: NetName=GND Pin=H1-15
+Added Pin To Net: NetName=GND Pin=H1-16
+Added Pin To Net: NetName=GND Pin=H1-17
+Added Pin To Net: NetName=GND Pin=H1-18
+Added Pin To Net: NetName=GND Pin=H1-19
+Added Pin To Net: NetName=3.3v Pin=H1-20
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetQ1_2 Pin=Q1-2
+Added Pin To Net: NetName=+5v Pin=Q1-3
+Added Pin To Net: NetName=T_RST Pin=R14-1
+Added Pin To Net: NetName=T_DIO Pin=R15-1
+Added Pin To Net: NetName=T_CLK Pin=R16-1
+Added Pin To Net: NetName=T_SWO Pin=R17-1
+Added Pin To Net: NetName=T_RX Pin=R18-1
+Added Pin To Net: NetName=T_TX Pin=R19-1
+Added Pin To Net: NetName=GND Pin=U2-47
+Added Pin To Net: NetName=3.3v Pin=U2-48
+Added Pin To Net: NetName=NetH1_2 Pin=H1-2
+Added Pin To Net: NetName=NetH1_2 Pin=R14-2
+Added Net: Name=NetH1_2
+Added Pin To Net: NetName=NetH1_4 Pin=H1-4
+Added Pin To Net: NetName=NetH1_4 Pin=R15-2
+Added Net: Name=NetH1_4
+Added Pin To Net: NetName=NetH1_5 Pin=H1-5
+Added Pin To Net: NetName=NetH1_5 Pin=R16-2
+Added Net: Name=NetH1_5
+Added Pin To Net: NetName=NetH1_7 Pin=H1-7
+Added Pin To Net: NetName=NetH1_7 Pin=R17-2
+Added Net: Name=NetH1_7
+Added Pin To Net: NetName=NetH1_9 Pin=H1-9
+Added Pin To Net: NetName=NetH1_9 Pin=R18-2
+Added Net: Name=NetH1_9
+Added Pin To Net: NetName=NetH1_10 Pin=H1-10
+Added Pin To Net: NetName=NetH1_10 Pin=R19-2
+Added Net: Name=NetH1_10
+Added Member To Class: ClassName=ST_Link Member=Component H1 2x10 male header
+Added Member To Class: ClassName=ST_Link Member=Component Q1 SOT23 PNP transistor
+Added Member To Class: ClassName=ST_Link Member=Component R14 22R
+Added Member To Class: ClassName=ST_Link Member=Component R15 22R
+Added Member To Class: ClassName=ST_Link Member=Component R16 22R
+Added Member To Class: ClassName=ST_Link Member=Component R17 22R
+Added Member To Class: ClassName=ST_Link Member=Component R18
+Added Member To Class: ClassName=ST_Link Member=Component R19 22R

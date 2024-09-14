@@ -1,0 +1,14 @@
+Added Component: Designator=F?(FUSC1608X60N)
+Add component (AddParameter): Name = "Availability"; Value = "Warning"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Bel Fuse"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "0686F1500-01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603 Bel Fuse Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/0686F1500-01/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/0686F1500-01/Bel%20Fuse/view-part/4616395/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetFL1_2 Pin=F?-1
+Added Pin To Net: NetName=+5v Pin=F?-2
+Change Net Name : Old Net Name=NetFL1_2 New Net Name=NetF?_1
+Added Member To Class: ClassName=ST_Link Member=Component F? 0686F1500-01
+Added Member To Class: ClassName=ST_Link Member=Component SDIO PAD
