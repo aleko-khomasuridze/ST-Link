@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [ST_Link.PrjPcb]
+   Generated File[ST_Link-RoundHoles.TXT]
+   Generated File[ST_Link-SlotHoles.TXT]
+   Generated File[ST_Link.LDP]
+   Generated File[ST_Link.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 7:37:25 PM On 9/28/2024
